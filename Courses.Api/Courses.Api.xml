@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Courses.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Courses.Api.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Courses.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Courses.Api.Startup.Configuration">
+            <summary>
+            Configuration Prop
+            </summary>
+        </member>
+        <member name="M:Courses.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+        </member>
+        <member name="M:Courses.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+               This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+        </member>
+    </members>
+</doc>
